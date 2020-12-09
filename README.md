@@ -1,2 +1,3 @@
-# emojipreter
-Created with CodeSandbox
+# Emojipreter
+
+App that interpretes emoji meaning! 
